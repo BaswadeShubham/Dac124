@@ -1,0 +1,4 @@
+# This file assigns persistent names to network interfaces.
+# See iftab(5) for syntax.
+
+ens33 mac 00:0c:29:7f:62:b2 arp 1
